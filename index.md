@@ -1,8 +1,12 @@
 ---
-layout: default
-title: "Happy Jekylling!"
+layout: home
+title: "desktopgame.github.io"
 ---
 
-## You're ready to go!
+自作アプリの詳細な説明や使用方法について記述される予定のページです。  
+開発者ではなくユーザ向けのページとなります。
+* [テストページ]({% link test.md %})
 
-Start developing your Jekyll website.
+
+***
+[リポジトリ](https://github.com/desktopgame/desktopgame.github.io)
