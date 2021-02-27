@@ -35,13 +35,16 @@ NextSynthはUSB経由で接続されたMIDI機器にMIDIメッセージを送信
 ノートが存在する状態で再生ボタンを押すと、接続中のMIDI機器にMIDIメッセージが送信されます。
 ![編集画面2](assets/images/next_synth_edit2.png)
 
+複数のトラックを編集している場合は、他のトラックを別の色で表示します。
+![編集画面3](assets/images/next_synth_onionskin.png)
+
 MIDIメッセージを送信するためには、事前にMIDI機器を接続状態にしておく必要があります。
 
-![編集画面2](assets/images/next_synth_settings.png)
+![編集画面4](assets/images/next_synth_settings.png)
 
 また、トラックごとに送信対象のMIDI機器を選択可能です。
 
-![編集画面2](assets/images/next_synth_track.png)
+![編集画面5](assets/images/next_synth_track.png)
 
 # ソースコード
 NextSynthのソースコードは以下に置かれています。  
