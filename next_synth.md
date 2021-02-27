@@ -4,7 +4,7 @@ title: "desktopgame.github.io"
 permalink: /NextSynth
 app_name: NextSynth
 app_desc: NextSynthはAndroidで動作するMIDIシーケンサーです。
-app_image: /assets/images/user_icon.png
+app_image: /assets/images/next_synth_logo.png
 app_image_alt: NextSynthアプリアイコン
 ---
 # 概要
