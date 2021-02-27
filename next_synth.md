@@ -46,6 +46,12 @@ MIDIメッセージを送信するためには、事前にMIDI機器を接続状
 
 ![編集画面5](assets/images/next_synth_track.png)
 
+# バックアップ
+万が一データの破損が起こった場合に備えてセーブデータを外部に保存しておくことができます。  
+セーブデータの実態はただのJSONテキストなので、他のパソコン、スマートフォンなどに簡単に保存できます。  
+![バックアップ](assets/images/next_synth_backup.png)
+
+
 # ソースコード
 NextSynthのソースコードは以下に置かれています。  
 [NextSynth](https://github.com/desktopgame/next_synth)
