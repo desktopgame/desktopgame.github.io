@@ -12,6 +12,8 @@ NextSynthはUSB経由で接続されたMIDI機器にMIDIメッセージを送信
 本アプリ本体はDAWソフトのようなピアノロール画面を備えており、指定されたノートをMIDIメッセージとして送信できます。
 ![編集画面](assets/images/next_synth_edit.png)
 
+[PlayStore](https://play.google.com/store/apps/details?id=io.github.desktopgame.next_synth)
+
 
 # 使い方
 ノートを打ち込むためには、プロジェクトを作成する必要があります。  
